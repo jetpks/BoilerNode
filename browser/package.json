@@ -1,0 +1,23 @@
+{
+  "author": "Eric Jacobs <eric@chomp.us> (http://techosaur.us/)",
+  "name": "boilerplate",
+  "description": "it's boiler plate.",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "dependencies": {
+      "ahr2": "2.2.x"
+    , "forEachAsync": "2.x"
+    , "domready": "0.2.x"
+    , "bonzo": "1.x"
+    , "qwery": "3.x"
+    , "bean": "0.4.x"
+    , "underscore": "1.3.x"
+  },
+  "devDependencies": {}
+}
